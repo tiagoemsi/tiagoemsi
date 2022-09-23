@@ -11,3 +11,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagoemsi)](https://www.linkedin.com/in/tiagoemsi)
 
 
+![Snake animation](https://github.com/tiagoemsi/tiagoemsi/blob/output/github-contribution-grid-snake-dark.svg)
