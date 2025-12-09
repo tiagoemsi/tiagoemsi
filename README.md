@@ -8,15 +8,15 @@
 
 ### 📜 Um pouco de história
 
-🛠️ **A Base:** Comecei na tecnologia no início dos anos 2000 movido pela vontade de resolver problemas. Atuei como Desenvolvedor Full Stack autônomo construindo sistemas web e sites para empresas, e atuei também como Analista de Infraestrutura por quase uma década.
+🛠️ Comecei na tecnologia há mais de 15 anos movido pela vontade de resolver problemas. O início da minha carreira foi de muito aprendizado autodidata, tentativa e erro, uma verdadeira escola mão na massa. Atuei como Desenvolvedor Full Stack autônomo construindo sistemas web e sites para empresas, e atuei também como Analista de Infraestrutura por quase uma década. Essa vivência me deu uma visão ampla, permitindo entender desde o detalhe de rede e configuração de servidores, até a entrega de produtos e a experiência final do usuário.
 
-🚀 **RD Station:** Em 2016, entrei na **RD Station** aprofundando nas dores dos clientes e na sequencia migrei para Inteligência Operacional, onde aprendi a transformar dados em decisões de negócio.
+🚀 Em 2016, entrei na RD Station, mergulhei nas dores dos clientes e ajudei a construir um time de suporte capaz de identificar e resolver problemas mais complexos. Na sequência, fui para a área de Inteligência Operacional, onde aprendi a transformar dados em decisões de negócio, gerenciando KPIs, forecasts e liderando um time focado em alta performance.
 
-💻 **Engenharia:** A paixão por tecnologia me trouxe de volta à Engenharia de Software em 2019. Me dediquei a construir, testar e escalar o ecossistema de produtos da RD, utilizando tecnologias como **Ruby, Go e React** em ambiente **Kubernetes**
+💻 A paixão por tecnologia me trouxe de volta à Engenharia de Software em 2019. Me dediquei a construir, testar e escalar o ecossistema de produtos da RD, utilizando tecnologias como Ruby, Go e React em ambiente Kubernetes. Foi um período de muito aprendizado, focado em observabilidade, resiliência e arquitetura de sistemas.
 
-🎓 **Pós-graduação:** Em Liderança e Gestão em Tecnologia solidificou meu propósito de criar times de alta performance, disseminar boas práticas e atuar como Mentor no desenvolvimento de carreira técnica.
+🎓 Minha pós-graduação em Liderança e Gestão em Tecnologia solidificou meu propósito de criar times de alta performance, disseminar boas práticas e atuar como Mentor no desenvolvimento de carreira técnica.
 
-⭐ **Atualmente:** Hoje, como **Tech Lead na TOTVS (RD Station)**, conecto minha experiência para gerar valor. Desenvolvo times técnicos que impulsionam o negócio e incentivo as pessoas a encontrarem um ambiente saudável para evoluir a carreira.
+⭐ Hoje, como Tech Lead na TOTVS (Unidade de Negócio RD Station), conecto minha experiência para gerar valor. Desenvolvo times técnicos que impulsionam o negócio e incentivo as pessoas encontrem um ambiente saudável para evoluir a carreira.
 
 ---
 
