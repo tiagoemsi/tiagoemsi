@@ -17,5 +17,5 @@ jobs:
       - name: Buscar posts e atualizar README
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://programado.dev/sitemap-0.xml" 
-          max_post_count: 5
+          feed_list: "https://programado.dev/rss.xml" 
+          max_post_count: 10
