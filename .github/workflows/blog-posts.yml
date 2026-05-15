@@ -19,4 +19,4 @@ jobs:
         with:
           feed_list: "https://programado.dev/rss.xml" 
           max_post_count: 10
-          template: "* **[$title]($url)** - <i>$description</i>\n"
+          template: "* **[$title]($url)** - <i>$description</i>$newline"
