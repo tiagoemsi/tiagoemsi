@@ -33,7 +33,7 @@
 * 📝 **Meu blog com ideias aleatórias:** [programado.dev](https://programado.dev/)
 * 🌳 **Outros links:** [tiago.bio.link](https://tiago.bio.link)
 
-### ✍️ Meus últimos conteúdos no Blog
+### ✍️ Meus últimos conteúdos no Blog [programado.dev](https://programado.dev/)
 
 <!-- BLOG-POST-LIST:START -->
 * [Engenharia Orientada a Produto](https://programado.dev/blog/engenharia-orientada-a-produto/)
@@ -46,3 +46,4 @@
 * [A Nova Era da Programação](https://programado.dev/blog/a-nova-era-da-programacao/)
 * [Aprenda com Ignorância Consciente](https://programado.dev/blog/aprenda-com-ignorancia-consciente/)
 * [LinkedIn: A Configuração para Conquistar a Atenção dos Recrutadores](https://programado.dev/blog/linkedin-a-configuracao-para-conquistar/)<!-- BLOG-POST-LIST:END -->
+* [Veja mais...](https://programado.dev)
