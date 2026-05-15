@@ -27,6 +27,8 @@
 
 ---
 
-### 📫 Entre em contato
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagoemsi)
-* [![BioLink](https://img.shields.io/badge/Bio_Link-Here-2ea44f?style=for-the-badge)](https://tiago.bio.link)
+### 📫 Onde me encontrar
+
+* 🔗 **LinkedIn:** [linkedin.com/in/tiagoemsi](https://www.linkedin.com/in/tiagoemsi)
+* 📝 **Meu blog com ideias aleatórias:** [programado.dev](https://programado.dev/)
+* 🌳 **Outros links:** [tiago.bio.link](https://tiago.bio.link)
