@@ -32,3 +32,8 @@
 * 🔗 **LinkedIn:** [linkedin.com/in/tiagoemsi](https://www.linkedin.com/in/tiagoemsi)
 * 📝 **Meu blog com ideias aleatórias:** [programado.dev](https://programado.dev/)
 * 🌳 **Outros links:** [tiago.bio.link](https://tiago.bio.link)
+
+### ✍️ Meus últimos conteúdos no Blog
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
