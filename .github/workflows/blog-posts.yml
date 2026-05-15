@@ -1,7 +1,10 @@
 name: Atualizar posts do blog
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: 
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true 
 
 jobs:
   update-readme-with-blog:
@@ -15,4 +18,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://programado.dev/sitemap-0.xml" 
-          max_post_count: 10
+          max_post_count: 5
