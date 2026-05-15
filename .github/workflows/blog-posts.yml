@@ -1,0 +1,18 @@
+name: Atualizar posts do blog
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Atualizar README com os últimos posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v4
+      
+      - name: Buscar posts e atualizar README
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://programado.dev/sitemap-0.xml" 
+          max_post_count: 10
