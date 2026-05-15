@@ -27,12 +27,6 @@
 
 ---
 
-### 📫 Onde me encontrar
-
-* 🔗 **LinkedIn:** [linkedin.com/in/tiagoemsi](https://www.linkedin.com/in/tiagoemsi)
-* 📝 **Meu blog com ideias aleatórias:** [programado.dev](https://programado.dev/)
-* 🌳 **Outros links:** [tiago.bio.link](https://tiago.bio.link)
-
 ### ✍️ Meus últimos conteúdos no Blog [programado.dev](https://programado.dev/)
 
 <!-- BLOG-POST-LIST:START -->
@@ -47,3 +41,11 @@
 * [Aprenda com Ignorância Consciente](https://programado.dev/blog/aprenda-com-ignorancia-consciente/)
 * [LinkedIn: A Configuração para Conquistar a Atenção dos Recrutadores](https://programado.dev/blog/linkedin-a-configuracao-para-conquistar/)<!-- BLOG-POST-LIST:END -->
 * [Veja mais...](https://programado.dev)
+
+---
+
+### 📫 Onde me encontrar
+
+* 🔗 **LinkedIn:** [linkedin.com/in/tiagoemsi](https://www.linkedin.com/in/tiagoemsi)
+* 📝 **Meu blog com ideias aleatórias:** [programado.dev](https://programado.dev/)
+* 🌳 **Outros links:** [tiago.bio.link](https://tiago.bio.link)
