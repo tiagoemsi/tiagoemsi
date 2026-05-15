@@ -39,7 +39,14 @@
 * [O Código de Conduta do Programador Profissional](https://programado.dev/blog/o-codigo-de-conduta-do-programador-profissional/)
 * [A Nova Era da Programação](https://programado.dev/blog/a-nova-era-da-programacao/)
 * [Aprenda com Ignorância Consciente](https://programado.dev/blog/aprenda-com-ignorancia-consciente/)
-* [LinkedIn: A Configuração para Conquistar a Atenção dos Recrutadores](https://programado.dev/blog/linkedin-a-configuracao-para-conquistar/)<!-- BLOG-POST-LIST:END -->
+* [LinkedIn: A Configuração para Conquistar a Atenção dos Recrutadores](https://programado.dev/blog/linkedin-a-configuracao-para-conquistar/)
+* [A Melhor Linguagem de Programação](https://programado.dev/blog/a-melhor-linguagem-de-programacao/)
+* [É possível aprender programação sozinho?](https://programado.dev/blog/e-possivel-aprender-programacao-sozinho/)
+* [Comunicação Inteligente](https://programado.dev/blog/comunicacao-inteligente/)
+* [Especialista ou Generalista](https://programado.dev/blog/especialista-ou-generalista/)
+* [O Segredo da Senioridade](https://programado.dev/blog/o-segredo-da-senioridade/)
+* [Qualidade de Software e Código](https://programado.dev/blog/qualidade-de-software-e-codigo/)
+* [Playbook de APIs maduras](https://programado.dev/blog/playbook-de-apis-maduras/)<!-- BLOG-POST-LIST:END -->
 * [Veja mais...](https://programado.dev)
 
 ---
