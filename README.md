@@ -36,4 +36,14 @@
 ### ✍️ Meus últimos conteúdos no Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Engenharia Orientada a Produto](https://programado.dev/blog/engenharia-orientada-a-produto/)
+- [O Herói Técnico é o Inimigo da Escala](https://programado.dev/blog/o-heroi-tecnico-e-o-inimigo-da-escala/)
+- [O Paradoxo do Puxadinho de Gambiarra](https://programado.dev/blog/o-paradoxo-do-puxadinho-de-gambiarra/)
+- [Perguntas Idiotas Evitam Problemas](https://programado.dev/blog/perguntas-idiotas-evitam-problemas/)
+- [Engenharia de Software Efetiva](https://programado.dev/blog/engenharia-de-software-efetiva/)
+- [Atenção Fragmentada](https://programado.dev/blog/atencao-fragmentada/)
+- [O Código de Conduta do Programador Profissional](https://programado.dev/blog/o-codigo-de-conduta-do-programador-profissional/)
+- [A Nova Era da Programação](https://programado.dev/blog/a-nova-era-da-programacao/)
+- [Aprenda com Ignorância Consciente](https://programado.dev/blog/aprenda-com-ignorancia-consciente/)
+- [LinkedIn: A Configuração para Conquistar a Atenção dos Recrutadores](https://programado.dev/blog/linkedin-a-configuracao-para-conquistar/)
 <!-- BLOG-POST-LIST:END -->
