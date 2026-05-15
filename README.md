@@ -35,14 +35,14 @@
 
 ### ✍️ Meus últimos conteúdos no Blog
 
-<!-- BLOG-POST-LIST:START -->* **[Engenharia Orientada a Produto](https://programado.dev/blog/engenharia-orientada-a-produto/)** - <i>Você está resolvendo um problema real ou só deixando o código mais bonito?</i>
-* **[O Herói Técnico é o Inimigo da Escala](https://programado.dev/blog/o-heroi-tecnico-e-o-inimigo-da-escala/)** - <i>O melhor programador pode travar seu time, sua liderança e o crescimento da empresa</i>
-* **[O Paradoxo do Puxadinho de Gambiarra](https://programado.dev/blog/o-paradoxo-do-puxadinho-de-gambiarra/)** - <i>Como a dívida técnica se transforma em temporário permanente</i>
-* **[Perguntas Idiotas Evitam Problemas](https://programado.dev/blog/perguntas-idiotas-evitam-problemas/)** - <i>O silêncio nas reuniões é o começo dos problemas mais caros</i>
-* **[Engenharia de Software Efetiva](https://programado.dev/blog/engenharia-de-software-efetiva/)** - <i>Equilibrando Eficiência, Eficácia e o Uso Consciente da IA</i>
-* **[Atenção Fragmentada](https://programado.dev/blog/atencao-fragmentada/)** - <i>O cansaço silencioso que está consumindo sua atenção</i>
-* **[O Código de Conduta do Programador Profissional](https://programado.dev/blog/o-codigo-de-conduta-do-programador-profissional/)** - <i>Responsabilidade, qualidade e a mentalidade que separa quem apenas codifica de quem constrói carreira</i>
-* **[A Nova Era da Programação](https://programado.dev/blog/a-nova-era-da-programacao/)** - <i>O guia de sobrevivência para quando a Inteligência Artificial falhar.</i>
-* **[Aprenda com Ignorância Consciente](https://programado.dev/blog/aprenda-com-ignorancia-consciente/)** - <i>O segredo para não travar nos estudos</i>
-* **[LinkedIn: A Configuração para Conquistar a Atenção dos Recrutadores](https://programado.dev/blog/linkedin-a-configuracao-para-conquistar/)** - <i>Configure seu LinkedIn para Sua Primeira Vaga Dev</i>
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+* [Engenharia Orientada a Produto](https://programado.dev/blog/engenharia-orientada-a-produto/)
+* [O Herói Técnico é o Inimigo da Escala](https://programado.dev/blog/o-heroi-tecnico-e-o-inimigo-da-escala/)
+* [O Paradoxo do Puxadinho de Gambiarra](https://programado.dev/blog/o-paradoxo-do-puxadinho-de-gambiarra/)
+* [Perguntas Idiotas Evitam Problemas](https://programado.dev/blog/perguntas-idiotas-evitam-problemas/)
+* [Engenharia de Software Efetiva](https://programado.dev/blog/engenharia-de-software-efetiva/)
+* [Atenção Fragmentada](https://programado.dev/blog/atencao-fragmentada/)
+* [O Código de Conduta do Programador Profissional](https://programado.dev/blog/o-codigo-de-conduta-do-programador-profissional/)
+* [A Nova Era da Programação](https://programado.dev/blog/a-nova-era-da-programacao/)
+* [Aprenda com Ignorância Consciente](https://programado.dev/blog/aprenda-com-ignorancia-consciente/)
+* [LinkedIn: A Configuração para Conquistar a Atenção dos Recrutadores](https://programado.dev/blog/linkedin-a-configuracao-para-conquistar/)<!-- BLOG-POST-LIST:END -->
