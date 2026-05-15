@@ -20,10 +20,10 @@
 
 ### 🛠️ Tech Stack & Ferramentas
 
-* **Linguagens:** Ruby, Golang, JavaScript, TypeScript, React, Node, Python.
-* **Infra & DevOps:** Kubernetes, Docker, AWS, GCP.
-* **Dados:** PostgreSQL, MongoDB, Redis.
-* **Outros:** Sidekiq, GraphQL, CI/CD (CircleCI, Jenkins).
+* 💻 **Linguagens:** Ruby, Golang, JavaScript, TypeScript, React, Node, Python
+* ☁️ **Infra & DevOps:** Kubernetes, Docker, AWS, GCP
+* 🗄️ **Dados:** PostgreSQL, MongoDB, Redis
+* ⚙️ **Outros:** Sidekiq, GraphQL, CI/CD (CircleCI, Jenkins)
 
 ---
 
